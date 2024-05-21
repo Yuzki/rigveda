@@ -1,0 +1,112 @@
+PREFACE 
+
+The Rigveda is not a book, but a library and literature.
+Before its contents can be appreciated, it is necessary that they should be methodically arranged.
+We cannot determine with any exactness by external evidence the date, the locality, or the personality of the authors.
+We are therefore thrown back upon the poems themselves for our knowledge on these points.
+The internal evidence lends itself most readily to an inquiry into the relative date of the different hymns.
+
+Almost all western students of the Rigveda have perceived that the Rigveda contains a number of poems which by their special characteristics in language, subject, and meter are to be distinguished from the main body of the hymns, and to be associated instead with the poems of the Atharvaveda.
+These poems have generally been described as 'later additions to the Rigveda,' and in my opinion this description is correct.
+Since however Professor Maurice Bloomfield in his work on the Atharvaveda (Strassburg, 1899) questions this view, I have not thought it right to take it for granted, but have adopted from him the title 'popular Rigveda' for these poems.
+
+My first task in this work is accordingly to delimit the 'popular Rigveda,' which has generally been vaguely described as consisting of certain hymns appended to the first nine Mandalas, and the majority of those of Mandala x.
+For this purpose, an examination of the language has proved the most effective method: but the evidence is greatly strengthened by the fact that the differences found in the language are throughout accompanied by differences of meter.
+These differences are sometimes broadly marked, sometimes subtle: but they can always be clearly recognized when expressed by numerical calculations.
+
+The first systematic attempt to delimit the popular Rigveda was made many years ago by Professor Hermann Oldenberg in his Prolegomena to the Rigveda (Berlin, 1888).
+Oldenberg also adopted the method of statistical calculations; and was thus led to observe that even those parts of the Rigveda which were not in his view later additions, differed very materially in their metrical structure.
+It is <pb n="x"/> the  principal  object  of  this  book  to  examine  these  differences,  and  to 
+see  whether  they  can  assist  us  to  obtain  an  arrangement  of  the  whole of  the  Rigveda  upon  historical  principles. 
+
+In my view, this question is to be answered in the affirmative.
+I believe that the formal scheme reached in this book, by which each hymn of the Rigveda proper is assigned to one of four successive periods, is a true adumbration of the historical development of the whole literature, and should be a real assistance to the study of its meaning.
+On the other hand, I do not for a moment suggest that the materials permit of any accuracy in details.
+At the same time, I think it is conclusively shown (if it has not been shown long ago) that the hymns of the 'popular Rigveda' are in a true sense later additions, and further that these too are spread over a long period of time.
+
+The conclusions I have reached have been, in their main outlines, published by me in the following articles:
+
+L  in  the  Rigveda  (Festgruss  an  Rudolf  von  Roth,  1893,  pp.  145-148). 
+Literary  Epochs  in  the  Rigveda  (KZ.  xxxiv,  pp.  297-344). 
+Historical  Vedic  Grammar  (JAOS.  xviii  2). 
+Rigveda  vii  33  (KZ.  xxxvii,  pp.  207-219). 
+The  second  Mandala  of  the  Rigveda  (KZ.  xxxvii,  pp.  429-486).  » 
+Rigveda  vii  18  (KZ.  xxxviii,  pp.  491-496). 
+Rigveda  and  Atharvaveda  (JAOS.  xxii,  pp.  309-320). 
+
+These articles also contain my replies to the objections and criticisms which my propositions have called forth from several Vedic scholars.
+
+Although my position has not yet won acceptance, I have received encouragement from more than one quarter to proceed to the publication of my views in a complete form.
+In so doing, I have endeavored to reduce controversy to a minimum, and to give instead with all possible fullness the materials from which I have drawn my own conclusions, but by which others in turn may be led to form more or less divergent views.
+I have not dropped the thread of historical theory which, to my mind, binds together in proper order a large collection of facts: but even if this thread be not altogether sound, the collections themselves can hardly fail to be of service to future students.
+
+In elaborating this work, I found that solutions were incidentally suggested to several important questions which affect the text of the Rigveda.
+
+The first group of these questions has to do with the proposed 'resolutions' by which H. Grassmann in his Wörterbuch zum Rigveda (1873) has attempted to restore completeness to numerous verses in the Rigveda in the number of syllables: and more particularly with the <pb n="xi" /> restoration of <hi rend="italic">índara</hi> for <hi rend="italic">índra</hi>, and of <hi rend="italic">-aam</hi> for <hi rend="italic">-ām</hi> in the genitive plural.
+Although the native commentators justify the principle of resolution, there have always been scholars who have questioned Grassmann's procedure, which in fact assumes a fluidity of pronunciation not known in any settled language.
+I trust that the treatment of these points in Ch. Ill will greatly reduce the uncertainty that has hitherto prevailed on these points.
+
+The second group of questions has to do with the authority of the Samhita text with regard to vowel quantities, and in particular with regard to the so-called `Samhita lengthenings,' that is, the final vowels which are found with short quantity in the Pada-patha text and in the native grammars, but (more or less regularly) with long quantity in the Samhita text.
+
+As the method of this book prohibits me from discussing the history of this question in the text, I take this opportunity of giving some account of it here.
+This seems the more desirable, as I hope this illustration will justify the cardinal principle which I have followed, namely to disregard in points of this character the authority not only of the native commentators, but also of the Samhita as well as the Pada-patha text, and to be guided solely by the general usage of the Vedic poets.
+
+The current explanation of what I have termed the `variant final vowels,' i.e., the final vowels of which the quantity varies in the Samhita text, is derived from the unhistorical views of the native commentators, and is somewhat as follows: In certain positions in the verse metrical laws require long quantity, but the poets find themselves unable to provide words of the requisite measurement.
+They therefore introduce syllables of which the quantity is short, and give to those syllables an artificial long value by `poetical license,' the syllables being thereby `metrically lengthened.'
+This general theory is frequently asserted upon the authority of the two scholars who have dealt most fully with the question, namely Th. Benfey and J. Zubatv. But in fact, the credit should rather be given to these writers of having shown that the theory is untenable.
+
+Only habit can explain the general acceptance of so remarkable a metrical theory: still, Latin scholars will faintly recollect that the verse even of Virgil was thought not so long ago to require the occasional apology of `metrical license,' and has not Horace said that at times ``bonus dormitat Homerus''?
+In this case, however, a metrical license, of which the instances can be counted by the thousand, seems to destroy the nature of verse altogether.
+How are we to suppose that the poets should always find the meter embarrassing just as they <pb n="xii" /> reached a final vowel, and why should they be embarrassed at all by the meter if they possessed in themselves the power to transmute at will a vowel quantity?
+In truth, the two principles of `resolution' and `metrical lengthening' together, if unduly pressed, reduce meter to an absurdity since, by means of them, any piece of plain prose can be shown to correspond to some metrical scheme.
+
+Benfey dealt with the question in a series of articles on the <hi rend="italic">Quantitätsverschiedenheiten</hi>, which extend over the seven years 1874–1880 and were never completed.
+His studies in comparative language at once suggested to him an historical explanation, namely that the vowels in question were originally long, but in the course of time shortened.
+This explanation is at first quite tentative, but as his work proceeds is used with increasing confidence.
+He finds repeatedly that the long vowels are used in positions in which short vowels would be equally or more acceptable from the metrical standpoint: here, of course, the idea of 'metrical license' is out of the question.
+Still, from habit, Benfey continues to use the explanation 'metrical' wherever the long quantity suits the meter well, which is usually the case.
+
+Zubatý took up the matter about ten years later (1888-1891) from a rather different standpoint.
+Assuming that in all these forms the Vedic poets were free to choose either the long or the short syllable, in fact that the quantity was `doubtful,' he argues from the quantity actually found in the Samhita text to the metrical preferences of the poets.
+In this way, he has no difficulty in showing that current theories as to the Vedic meters were often founded on a very slender basis of fact.
+Notably, he corrected an error into which all previous writers had fallen, in supposing that the poets preferred short quantity in the third syllable of each verse.
+This imagined 'rule' had been imported from Greek iambic verse into the supposed iambic verse of the Rigveda without any inquiry as to the facts.
+Zubatý's work is remarkable for the completeness and orderly arrangement of his material, but unfortunately its publication was never completed.
+
+I fear that my treatment of this subject on pages 108-140 will be thought complicated and difficult; but perhaps this will be more readily excused by those who are familiar with the voluminous writings and inconclusive results of my two predecessors.
+For many years, I had avoided this subject as too difficult for treatment and had intended to assume (with Zubaty) the correctness of the Samhita text as a working hypothesis.
+But my study of the subject of `resolution' showed me that the Vedic poets were in the habit of following very definite standards of pronunciation, with only a small margin of choice in the case of words which were actually changing their pronunciation <pb n="xiii" /> in common speech.
+I felt therefore that I could not accept Zubaty's theory of optional quantity, and that a systematic study of Vedic usage must necessarily reveal in every case either a fixed or at any rate a preferential quantity.
+It required some time to examine and classify the many thousands of occurrences in the Rigveda, and it is not easy to put forward the detailed results in a form in which they can readily be followed.
+But the general conclusion is only strange in the sense that it is new.
+All the difficulties disappear when Benfey's suggestion is carried out, not in a hesitating or tentative fashion, but to its logical conclusion.
+A great number of final vowels are always long in Vedic usage, though in the Samhita text they are often, and in the Pada-patha text always, short: that is to say, the Samhita text has partly, the Pada-patha text entirely, failed to preserve the original quantity.
+The metrical position is not the cause which has produced long quantity in certain cases, but the hindrance which has prevented the corruption of the Samhita text by the prevailing usage.
+In other endings, the shortening can be traced in the later parts of the Rigveda itself.
+The instances in which any real doubt remains become in this way reduced to a very small number.
+
+I am aware that in postulating original long quantity for many of these vowels, objections may also be raised by the writers on comparative grammar.
+But these objections seem in no way entitled to a hearing.
+In treating of the meter of Plautus or Virgil, we deduce our facts directly from the usage of these writers, and the theories of comparative grammar must follow.
+There are numerous instances in which the forms used by Plautus are, from the broad standpoint of comparative grammar, of later date than the forms used by Virgil: but from the special standpoint of Latin literature, the forms peculiar to Plautus are the archaic forms.
+If therefore it is urged that the verb-forms <hi rend="italic">bharā</hi> (2 sing, imperative) and <hi rend="italic">bharatā</hi> (2 plur.) are not, in the view of comparative grammarians, older than the forms <hi rend="italic">bhara</hi>, <hi rend="italic">bharata</hi>, it must be remembered, first, that this theory is to some extent founded upon the incorrect postulate of the Sanskrit grammarians that "bhara, bharata" are the true Vedic forms; and secondly, that even if the short vowel is really more primitive (and Benfey at least doubted this), the long vowel may, and indeed as the facts show, must have established itself in the interval between the primitive period referred to and the times of classical Sanskrit.
+
+This discussion may seem to lead to an unsatisfactory result in so far as it increases the doubts that must be felt as to the general correctness of the Samhita text and thereby seems to shake the solid structure "unde omnia cognita pendent."
+But the errors of the text in <pb n="xiv" /> small details are so numerous that no commentator has ever left them unnoticed.
+The question rather arises whether the understanding of the Rigveda would not make better progress if the task of emendation were more vigorously taken in hand.
+Upon this question, I have hardly ventured to enter in the body of the book, for a better knowledge of the meter seems to me an indispensable preliminary to textual correction: although in the <hi rend="italic">Metrical Commentary</hi>, I have indicated a fair number of simple alterations in the text which (if admissible on other grounds) have the advantage of removing metrical difficulties.
+But where difficulties of interpretation and of meter concur in the same verses, I have little doubt that the solution is to be found in that direction: and therefore I have suggested (though only in a tentative way) in Ch. IX this method of dealing with some of the hymns in the "uneven lyric" meters, which are here for the first time recognized as entitled to rank as a distinct class of established metrical forms.
+
+To the writers already named I am indebted, not only in regard to the matters specifically referred to, but also for suggestions and collections of material which extend over a large part of my work.
+There are many others to whom I am under obligations in some one or more particulars for their contributions to this subject either in their publications or in private communications.
+Such are Rudolf Roth (to whose memory I venture to dedicate this work as one of his old pupils, and to whose principles of Vedic interpretation I mostly adhere), A. Weber, A. Ludwig, R. Kuhnau, R. Pischel, Karl Geldner, A. Meillet, A. A. Macdonell, E. W. Hopkins, and Emil Sieg.
+I fear the references given to these writers in the text very imperfectly represent these obligations.
+
+It remains for me to acknowledge the direct assistance I have received in the preparation of this work.
+Professors H. Oldenberg and J. Zubatý have assisted me throughout by numerous criticisms and suggestions, and the latter also by placing at my disposal the unpublished part of his articles on the Quantitdtswechsel.
+Professors C. Bendall and E. J. Rapson have kindly read my proofs throughout, as Professor Oldenberg has also done for a large part of the book: and each of these has in turn saved me from many errors which otherwise would have disfigured the work.
+To the liberality of the Cambridge University Press, assisted by a substantial grant from the Cambridge Philological Society, I owe it that the book has been produced with all the aids of modern typography without any cost to myself.
+
+E.  VERNON  ARNOLD. 
+
+Bangor,  June,  1905. 
